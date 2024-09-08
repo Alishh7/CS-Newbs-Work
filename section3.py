@@ -19,11 +19,12 @@ hour = int(input("What is the hour? "))
 min = int(input("What is the minute? "))
 print (f"The time is {hour}:{min}")
 
-#other tasks
-total = 45
+#other
+total = input("amount ")
 
 print("You owe £" + str(total) , "in total.")
 
+#other
 colour = input("""whats your fav colour? 
 """)
 food = input("""whats your fav food? 
