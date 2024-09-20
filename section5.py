@@ -28,3 +28,15 @@ days = ["Monday" , "Tuesday" , "Wednesday" , "Thursday" , "Friday"]
 two_days = sample(days , 2)
 
 print("You will be set homework on:" , *two_days)
+
+#other
+from time import sleep
+
+​print("Hello!")
+sleep(2)
+print("Goodbye!")
+
+#other
+from time import ctime
+print("Current time:" , ctime())
+
