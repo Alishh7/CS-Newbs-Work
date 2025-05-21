@@ -1,5 +1,5 @@
 #14th Feb
-import time
+import time 
 
 #section 6A
 for i in range(5):
