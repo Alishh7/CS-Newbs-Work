@@ -1,4 +1,4 @@
-#other on 19th Feb
+#other on 19th Feb 
 from random import choice
 
 print("lets play rock paer scissors!")
