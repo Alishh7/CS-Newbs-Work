@@ -1,4 +1,4 @@
-#4a task 2 
+#4a task 2  
 weather = input("What is the weather like today? (sunny, rainy, other) ")
 
 if weather == "sunny":
